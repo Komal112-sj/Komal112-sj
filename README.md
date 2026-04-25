@@ -1,7 +1,4 @@
-# Komal Hiremath — GitHub Profile README
-# Copy everything below this line into your Komal112-sj/Komal112-sj repo README.md
 
----
 
 <div align="center">
 
