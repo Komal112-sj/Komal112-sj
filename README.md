@@ -1,8 +1,11 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Komal Hiremath: AI Engineer, Generative &amp; Agentic AI, Full-Stack Developer" />
+  <img src="https://github.com/Komal112-sj.png?size=400" width="170" alt="Komal Hiremath" />
 </p>
+
+<h1 align="center">Hi, I'm Komal Hiremath 👋</h1>
+<p align="center"><b>AI Engineer · Generative &amp; Agentic AI · Full-Stack Developer</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF3B6A&center=true&vCenter=true&width=820&lines=I+build+AI+products+that+people+actually+use;Virtual+try-on+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Automation;React+%2B+Node.js+%2B+Python+%2B+n8n;Currently%3A+a+Kubernetes+AI+Ops+Agent+%F0%9F%90%B3" alt="Typing intro" />
@@ -31,24 +34,12 @@
 <a name="about"></a>
 ## 👩‍💻 About me
 
-<table>
-<tr>
-<td width="30%" align="center" valign="middle">
-  <img src="https://github.com/Komal112-sj.png?size=400" width="220" alt="Komal Hiremath" />
-  <br /><b>Komal Hiremath</b><br /><sub>she/her · Gadag, Karnataka</sub>
-</td>
-<td width="70%" valign="middle">
-<ul>
-  <li>🎓 <b>B.E. Information Science &amp; Engineering</b>, PES Institute of Technology and Management, Shivamogga (2022–2026)</li>
-  <li>🤖 I work on <b>Generative AI and Agentic AI</b>: RAG pipelines, LLM evaluators and multi-agent systems</li>
-  <li>🌐 <b>Full-stack</b>: React, Node.js/Express, MongoDB, real-time apps with Socket.IO</li>
-  <li>⚡ <b>Automation</b>: n8n workflows that send emails, reports and alerts with no manual work</li>
-  <li>🐳 Learning <b>DevOps</b>: Docker, Kubernetes and AI for cluster operations</li>
-  <li>☕ Coffee connects us!</li>
-</ul>
-</td>
-</tr>
-</table>
+- 🎓 **B.E. Information Science & Engineering**, PES Institute of Technology and Management, Shivamogga (2022–2026)
+- 🤖 I work on **Generative AI and Agentic AI**: RAG pipelines, LLM evaluators and multi-agent systems
+- 🌐 **Full-stack**: React, Node.js/Express, MongoDB, real-time apps with Socket.IO
+- ⚡ **Automation**: n8n workflows that send emails, reports and alerts with no manual work
+- 🐳 Learning **DevOps**: Docker, Kubernetes and AI for cluster operations
+- ☕ Coffee connects us!
 
 <p align="right"><a href="#top">⬆ back to top</a></p>
 
@@ -256,6 +247,4 @@ I'm open to **internships, AI engineering roles and freelance AI & automation wo
   <a href="mailto:komalsj112@gmail.com"><img src="https://img.shields.io/badge/komalsj112%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="./footer.svg" width="100%" alt="" />
-</p>
+<p align="center"><sub>Thanks for visiting ✨</sub></p>
