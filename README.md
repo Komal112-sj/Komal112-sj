@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://github.com/Komal112-sj.png?size=400" width="170" alt="Komal Hiremath" />
+  <img src="https://github.com/Komal112-sj.png?size=460" width="230" alt="Komal Hiremath" />
 </p>
 
 <h1 align="center">Hi, I'm Komal Hiremath 👋</h1>
