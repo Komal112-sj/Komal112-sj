@@ -1,20 +1,19 @@
 <a name="top"></a>
 
-<p align="center">
-  <img src="https://github.com/Komal112-sj.png?size=460" width="230" alt="Komal Hiremath" />
-</p>
-
 <h1 align="center">Hi, I'm Komal Hiremath 👋</h1>
-<p align="center"><b>AI Engineer · Generative &amp; Agentic AI · Full-Stack Developer</b></p>
+
+<h3 align="center">AI Engineer · Generative &amp; Agentic AI · Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF3B6A&center=true&vCenter=true&width=820&lines=I+build+AI+products+that+people+actually+use;Virtual+try-on+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Automation;React+%2B+Node.js+%2B+Python+%2B+n8n;Currently%3A+a+Kubernetes+AI+Ops+Agent+%F0%9F%90%B3" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF3B6A&center=true&vCenter=true&width=700&lines=I+build+AI+products+that+people+actually+use;Virtual+try-on+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Automation;React+%2B+Node.js+%2B+Python+%2B+n8n;Currently%3A+a+Kubernetes+AI+Ops+Agent+%F0%9F%90%B3" alt="Typing intro" />
 </p>
+
+<p align="center">🎓 ISE graduate, PES Institute of Technology and Management (2026) · 📍 Gadag, Karnataka · ☕ Coffee connects us!</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/komal-hiremath-178802329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:komalsj112@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Gadag%2C%20Karnataka-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="#projects"><img src="https://img.shields.io/badge/See%20my%20projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%C2%B7%20AI%20roles%20%C2%B7%20Freelance-10b981?style=for-the-badge" alt="Open to work" />
 </p>
 
